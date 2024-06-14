@@ -1,0 +1,23 @@
+@tailwind base;
+  @tailwind components;
+  @tailwind utilities;
+
+  
+
+  :root {
+    --background: #FFFFFF; /* Provide your desired hex color code */
+    --foreground: #000000; /* Provide your desired hex color code */
+    --btn-background: #f0f0f0; /* Provide your desired hex color code */
+    --btn-background-hover: #dcdcdc; /* Provide your desired hex color code */
+    --primary:#1C1E21;
+    --secondary:#494B4D;
+    --Tertiary:#77787A;
+    /* --overlay:#163300; */
+    --elevated:#E5FAED;
+    --green_dark:#06471E;
+    --interactive_accent:#1DAB61;
+    --content_link:#0373E9;
+    --base_light:#FFFFFF;
+
+    
+  }
